@@ -1,0 +1,15 @@
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\bin\Debug\net6.0\Task3_additional.exe
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\bin\Debug\net6.0\Task3_additional.deps.json
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\bin\Debug\net6.0\Task3_additional.runtimeconfig.json
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\bin\Debug\net6.0\Task3_additional.dll
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\bin\Debug\net6.0\Task3_additional.pdb
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\obj\Debug\net6.0\Task3_additional.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\obj\Debug\net6.0\Task3_additional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\obj\Debug\net6.0\Task3_additional.AssemblyInfoInputs.cache
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\obj\Debug\net6.0\Task3_additional.AssemblyInfo.cs
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\obj\Debug\net6.0\Task3_additional.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\obj\Debug\net6.0\Task3_additional.dll
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\obj\Debug\net6.0\refint\Task3_additional.dll
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\obj\Debug\net6.0\Task3_additional.pdb
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\obj\Debug\net6.0\Task3_additional.genruntimeconfig.cache
+D:\Visual Studio Code\C#\HW_from_Seminar#6\Task3_additional\obj\Debug\net6.0\ref\Task3_additional.dll
